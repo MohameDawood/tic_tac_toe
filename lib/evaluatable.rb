@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
+# rubocop:disable all
 module Evaluatable
   # This function take 3 args and check
   # - if they are equal, return true

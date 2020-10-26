@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
+# rubocop:disable all
 module Movable
   # This function take a board and check
   # - if there are moves remaining on the board, return true

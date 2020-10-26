@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
+# rubocop:disable all
 require './lib/evaluatable.rb'
 require './lib/movable.rb'
 
